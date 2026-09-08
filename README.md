@@ -1,10 +1,10 @@
-# SahaKarya 🚀
+# SahaKarya 
 
 > Empowering rural and informal gig workers through a Democratic Cooperative Marketplace backed by Fair-Share Matchmaking and Social Security.
 
 ---
 
-## 💡 Key Highlights
+##  Key Highlights
 * **Fair Job Allocation (ML):** Dynamically allocates daily tasks equally across active workers to prevent lead monopolization.
 * **Voice AI Booking:** Integrates Bhashini API to parse spoken regional dialects, removing digital literacy barriers.
 * **Taluka Level Hyperlocal Focus:** Uses PostgreSQL + PostGIS geofencing to keep jobs, workers, and capital circulating locally.
